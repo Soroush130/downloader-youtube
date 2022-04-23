@@ -9,4 +9,3 @@ pip install tkinter
 ```
 ** Then we can use the code inside the file main.py to continue the project **
 
-### Output :
