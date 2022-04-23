@@ -1,7 +1,12 @@
-## Downloader YouTube 
+# Downloader YouTube 
 
-##### install packegs
-```
+** First we install the packages we need **
+
+
+```python
 pip install pytube
+pip install tkinter
 ```
-##### write code in project
+** Then we can use the code inside the file main.py to continue the project **
+
+### Output :
